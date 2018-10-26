@@ -1,2 +1,2 @@
 # myRepo
-Repository for code to art
+My Repository
